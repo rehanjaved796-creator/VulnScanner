@@ -10,7 +10,7 @@
 
  About The Project
 
-VulnScanner is a Final Year Project (FYP) — a fully automated web vulnerability assessment framework built in Java. It scans target web applications for common security vulnerabilities and generates a detailed professional PDF report with findings and remediation advice.
+VulnScanner is a project a fully automated web vulnerability assessment framework built in Java. It scans target web applications for common security vulnerabilities and generates a detailed professional PDF report with findings and remediation advice.
 
 ---
 
